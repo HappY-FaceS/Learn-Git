@@ -1,1 +1,1 @@
-console.log("fetch command");
+console.log("git pull command");
