@@ -1,2 +1,2 @@
 console.log("git");
-comsole.log("welcome rishav");
+console.log("welcome rishav");
